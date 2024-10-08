@@ -5,10 +5,12 @@
 	<div class="container">
  		 <div class="row justify-content-md-center">
 			 <div class="col justify-content-md-center">
-		  Atualmente trabalhando em soluções de Realidade Aumentada com: 
-			</div>
-			 <div class="col justify-content-md-center">
-  <a target="_blank"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>			</div>
+With 4 years of experience in Augmented Reality (AR) and Virtual Reality (VR), I’ve developed
+solutions across educational applications, games, disaster simulators, interactive tools, e-commerce, and
+IoT. My work includes creating and maintaining software for small businesses as well as multinational
+corporations.			</div>
+			 
+			 
 		</div>
 	</div>
 <br>
