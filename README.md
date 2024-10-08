@@ -9,8 +9,6 @@ With 4 years of experience in Augmented Reality (AR) and Virtual Reality (VR), I
 solutions across educational applications, games, disaster simulators, interactive tools, e-commerce, and
 IoT. My work includes creating and maintaining software for small businesses as well as multinational
 corporations.			</div>
-			 
-			 
 		</div>
 	</div>
 <br>
